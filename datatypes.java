@@ -14,5 +14,6 @@ public class datatypes {
         int arr[] = {1,2,3,4};
         System.out.println("boolean: "+y);
         System.out.println("String: "+z);
+        System.out.println("hello");
         
     }}
